@@ -14,5 +14,6 @@ var valorEmReal3 = valorEmIene * cotacaoDoIene;
 valorEmReal1 = valorEmReal1.toFixed(2);
 valorEmReal2 = valorEmReal2.toFixed(2);
 valorEmReal3 = valorEmReal3.toFixed(2);
+valorEmReal4 = valorEmReal4.toFixed(2);
 
 alert('$ ' + valorEmDolar +' dolares equilave a R$ ' + valorEmReal1 + ' reais, € ' +  valorEmEuro + ' euros equivale a R$ ' + valorEmReal2 + ' reais, ¥ ' + valorEmIene + ' ienes equivale a R$ ' + valorEmReal3 + ' reais.');

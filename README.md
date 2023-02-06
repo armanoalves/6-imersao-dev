@@ -39,9 +39,15 @@ A Imersão é um momento de compartilhar conhecimento, aprender novos conteúdos
 * Limpar o input após preenchimento atribuindo valor nulo "" ;
 * Criação de um objeto usando chaves no momento de criar uma variável {} ;
 * Uso de crase para escrever ao mesmo tempo JS e HTML;
-* Uso do console.log , .innerHTML , .getElementById , ++ ;
+* Uso do console.log, .innerHTML, .getElementById , ++ ;
 
 ## Projetos desenvolvidos
+ 
+ - [Aula 01](https://github.com/armanoalves/6-imersao-dev/tree/aula-01)
+ - [Aula 02](https://github.com/armanoalves/6-imersao-dev/tree/aula-02)
+ - [Aula 03](https://github.com/armanoalves/6-imersao-dev/tree/aula-03)
+ - [Aula 04](https://github.com/armanoalves/6-imersao-dev/tree/aula-04)
+ - [Aula 05](https://github.com/armanoalves/6-imersao-dev/tree/aula-05)
 
 ## Como executar
 1. Clonar o repositório
